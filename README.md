@@ -99,7 +99,3 @@ system's performance.
 In conclusion, this movie recommendation system effectively suggests movies to users based on their preferences and interactions. Further enhancements and optimizations can be explored to
 improve the system's accuracy and efficiency.
 
-```
-
-You can adjust and expand this README file as needed for your GitHub repository. Make sure to fill in any additional details, such as license information, contact information, or
-contribution guidelines, if applicable.
